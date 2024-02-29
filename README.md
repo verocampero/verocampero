@@ -6,7 +6,7 @@ const sobreMi = {
   País: "Argentina",
   lenguajes: ["JavaScript", "HTML", "CSS", "React"],
   redesSociales: {
-    instagram: "verocampero.6",
+    instagram: "soyfrontend.developer",
     linkedin: "https://www.linkedin.com/in/veronica-campero-frontend/"
   },
 };
