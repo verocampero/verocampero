@@ -8,3 +8,4 @@
 </a>
 
 ![post_Mesa de trabajo 1](https://github.com/user-attachments/assets/b5ddd6cd-449a-4b51-b190-a40e5994686c)
+![deja los papelitos_Mesa de trabajo 1](https://github.com/user-attachments/assets/23bbf9c3-15ec-4aca-af2d-4ae2530258f7)
