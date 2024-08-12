@@ -1,14 +1,2 @@
-### Hola 👋
-
-```javascript
-const sobreMi = {
-  nombre: "Vero",
-  País: "Argentina",
-  lenguajes: ["JavaScript", "HTML", "CSS", "React", "React Native"],
-  redesSociales: {
-    instagram: "soyfrontend.developer",
-    linkedin: "https://www.linkedin.com/in/veronica-campero-frontend/"
-  },
-};
-
-
+##Hola Soy Vero 👋🏽👋🏽
+![github-02](https://github.com/user-attachments/assets/26b7d5c1-34c2-4c43-a005-9362933898bf)
