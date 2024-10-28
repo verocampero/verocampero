@@ -7,5 +7,3 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fveronica-campero-frontend%2F?style=flat-square&label=Vero&labelColor=blue&color=white">
 </a>
 
-![post_Mesa de trabajo 1](https://github.com/user-attachments/assets/b5ddd6cd-449a-4b51-b190-a40e5994686c)
-![deja los papelitos_Mesa de trabajo 1](https://github.com/user-attachments/assets/23bbf9c3-15ec-4aca-af2d-4ae2530258f7)
