@@ -1,5 +1,5 @@
 <h1 align="center">Hola Soy Vero 👋🏽👋🏽</h1>
-<h2 align="center">FrontEnd</h2>
+
 
 
 
