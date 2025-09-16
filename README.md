@@ -7,7 +7,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/https%3A%2F%2Fwww.linkedin.com%2Fin%2Fveronica-campero-frontend%2F?style=flat-square&label=Vero&labelColor=blue&color=white">
 </a>
 
-<h2>FrontEnd</h2>
+<h2>FullStack</h2>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
